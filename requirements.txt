@@ -1,0 +1,8 @@
+asyncio
+colorama
+requests
+re
+warnings
+urllib3
+xml.etree.ElementTree
+
