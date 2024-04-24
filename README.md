@@ -25,7 +25,7 @@ git clone https://github.com/fancymalware/soundcloud-ripper.git
 Use pip ton install dependencies :
 
 ```
-pip install requirements.txt
+pip install -r requirements.txt
 ```
 
 Then start ripper.py and enjoy >.<
